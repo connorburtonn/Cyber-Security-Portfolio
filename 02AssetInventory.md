@@ -1,7 +1,7 @@
 # Asset Inventory – Northbridge Ltd
 
 ## Overview:
-This document lists key IT and business assets within Northbridge Services Ltd. It is used to support risk assessment, security controls, and incident response planning.
+This document lists key IT and business assets within the organisation. It is used to support risk assessment, security controls, and incident response planning.
 
 
 
