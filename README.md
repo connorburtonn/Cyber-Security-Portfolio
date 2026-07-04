@@ -19,61 +19,61 @@ Infrastructure: On-prem + cloud hybrid (lab environment)
 
 **Objectives:**
 
-Build and document a realistic enterprise IT environment
+- Build and document a realistic enterprise IT environment
+  
+- Identify security risks through auditing and assessments
 
-Identify security risks through auditing and assessments
+- Implement Active Directory and access control systems
 
-Implement Active Directory and access control systems
+- Simulate monitoring and detection using SIEM tools
 
-Simulate monitoring and detection using SIEM tools
+- Perform vulnerability scanning and remediation planning
 
-Perform vulnerability scanning and remediation planning
-
-Conduct incident response simulations and investigations
+- Conduct incident response simulations and investigations
 
 **Tools used:**
 
-VirtualBox
+- VirtualBox
 
-Windows Server
+- Windows Server
 
-Windows 10/11
+- Windows 10/11
 
-Ubuntu
+- Ubuntu
 
-Wireshark
+- Wireshark
 
-Sysmon
+- Sysmon
 
-Powershell
+- Powershell
 
-Microsoft Sentinal (SIEM alternative)
+- Microsoft Sentinal (SIEM alternative)
 
-Nessus Essentials
+- Nessus Essentials
 
-draw.io (diagrams)
+- draw.io (diagrams)
 
 **Project Structure:**
 
-01-Company Overview - Business context, assets, architecture
+1) Company Overview - Business context, assets, architecture
 
-02-Asset Inventory - Systems, users and data mapping
+2) Asset Inventory - Systems, users and data mapping
 
-03-Network Design - Network topology and arhcitecture diagrams
+3) Network Design - Network topology and arhcitecture diagrams
 
-04-Security Audit - Internal audit and NIST CSF mapping
+4) Security Audit - Internal audit and NIST CSF mapping
 
-05-Active Directory Lab - Domain setup, users and GPO
+5) Active Directory Lab - Domain setup, users and GPO
 
-06-Vulnerability Management - Scanning and remediation reports
+6) Vulnerability Management - Scanning and remediation reports
  
-07-SIEM Monitoring - Log ingestion, alerts and dashboards
+7) SIEM Monitoring - Log ingestion, alerts and dashboards
 
-08-Incident Response - Security investigations and timelines
+8) Incident Response - Security investigations and timelines
 
-09-Threat Hunting - Log analysis and detection exercises
+9) Threat Hunting - Log analysis and detection exercises
  
-10-Executive Reports - Business level reporting and summaries
+10) Executive Reports - Business level reporting and summaries
 
 Key skills demonstrated:
 
@@ -85,7 +85,7 @@ Key skills demonstrated:
 - Incident response lifecycle (NIST aligned)
 - Technical documentation and reporting
 
-  Status:
+Status:
 
-  Ongoing project; actively updated as new labs and simulations are completed
+Ongoing project; actively updated as new labs and simulations are completed
 
