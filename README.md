@@ -1,5 +1,5 @@
 # Cyber Security Portfolio - Simulated Enterprise Environment
-**Overview:**
+## **Overview:**
 
 This repositary documents a simulated cybersecurity programme for a fictional organisation (Northbridge Ltd).
 
@@ -7,7 +7,7 @@ This project demonstrates practical cybersecurity skills across auditing, networ
 
 The goal is to replicate real-world SOC and IT security operations in a controlled lab environment.
 
-**Organisation Profile:**
+## **Organisation Profile:**
 
 Company: Northbridge Ltd (fictional)
 
@@ -17,7 +17,7 @@ Industry: Business services
 
 Infrastructure: On-prem + cloud hybrid (lab environment)
 
-**Objectives:**
+## **Objectives:**
 
 - Build and document a realistic enterprise IT environment
   
@@ -31,7 +31,7 @@ Infrastructure: On-prem + cloud hybrid (lab environment)
 
 - Conduct incident response simulations and investigations
 
-**Tools used:**
+## **Tools used:**
 
 - VirtualBox
 
@@ -53,7 +53,7 @@ Infrastructure: On-prem + cloud hybrid (lab environment)
 
 - draw.io (diagrams)
 
-**Project Structure:**
+## **Project Structure:**
 
 1) Company Overview - Business context, assets, architecture
 
@@ -75,7 +75,7 @@ Infrastructure: On-prem + cloud hybrid (lab environment)
  
 10) Executive Reports - Business level reporting and summaries
 
-**Key skills demonstrated:**
+## **Key skills demonstrated:**
 
 - Security auditing and risk assessment
 - Windows Server and Active Directory administration
@@ -85,7 +85,7 @@ Infrastructure: On-prem + cloud hybrid (lab environment)
 - Incident response lifecycle (NIST aligned)
 - Technical documentation and reporting
 
-**Status:**
+## **Status:**
 
 Ongoing project; actively updated as new labs and simulations are completed
 
