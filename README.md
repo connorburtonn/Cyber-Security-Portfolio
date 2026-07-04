@@ -75,7 +75,7 @@ Infrastructure: On-prem + cloud hybrid (lab environment)
  
 10) Executive Reports - Business level reporting and summaries
 
-Key skills demonstrated:
+**Key skills demonstrated:**
 
 - Security auditing and risk assessment
 - Windows Server and Active Directory administration
@@ -85,7 +85,7 @@ Key skills demonstrated:
 - Incident response lifecycle (NIST aligned)
 - Technical documentation and reporting
 
-Status:
+**Status:**
 
 Ongoing project; actively updated as new labs and simulations are completed
 
