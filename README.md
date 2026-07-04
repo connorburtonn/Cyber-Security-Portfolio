@@ -9,9 +9,12 @@ The goal is to replicate real-world SOC and IT security operations in a controll
 
 **Organisation Profile:**
 
-Company: Northbridge Services Ltd (fictional)
+Company: Northbridge Ltd (fictional)
+
 Size: 50-100 employees (simulated growth model)
+
 Industry: Business services
+
 Infrastructure: On-prem + cloud hybrid (lab environment)
 
 **Objectives:**
