@@ -1,7 +1,7 @@
 # Cyber Security Portfolio - Simulated Enterprise Environment
 ## **Overview:**
 
-This repositary documents a simulated cybersecurity programme for a fictional organisation (Northbridge Ltd).
+This repository documents a simulated cybersecurity programme for a fictional organisation (Northbridge Ltd).
 
 This project demonstrates practical cybersecurity skills across auditing, network design, system administration, monitoring, vulnerability management and incident response.
 
