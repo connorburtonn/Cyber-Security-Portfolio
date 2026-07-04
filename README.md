@@ -1,4 +1,4 @@
-# Cyber-Security-Portfolio - Simulated Enterprise Environment
+# Cyber Security Portfolio - Simulated Enterprise Environment
 **Overview:**
 
 This repositary documents a simulated cybersecurity programme for a fictional organisation (Northbridge Ltd).
