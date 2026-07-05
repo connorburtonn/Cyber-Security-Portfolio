@@ -1,5 +1,5 @@
 # Security Audit Report (Pre-Implementation)
-## Northbridge Services Ltd
+## Northbridge Ltd
 
 
 
