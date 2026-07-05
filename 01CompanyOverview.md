@@ -2,7 +2,7 @@
 This document describes the fictional organisation.
 
 ## Purpose:
-Northbridge Services Ltd is a simulated UK-based organisation created to replicate a real-world enterprise environment for cybersecurity portfolio development.
+Northbridge Ltd is a simulated UK-based organisation created to replicate a real-world enterprise environment for cybersecurity portfolio development.
 
 This environment is used to demonstrate practical skills in security operations, network administration, risk management, and incident response.
 
