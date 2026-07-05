@@ -1,6 +1,6 @@
 # Network Design - Northbridge Ltd
 ## Overview:
-This project outlines the proposed network architecture for the organisations IT environment.
+This project outlines the proposed network architecture for the organisations IT environment. The design aims to provide a secure, scalable and reliable environment that supports business operations while following cybersecurity best practices.
 
 This network will be developed throughout the portfolio as additional technologies and security controls are implemented.
 
